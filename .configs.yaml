@@ -1,0 +1,11 @@
+marvel:
+  host: https://gateway.marvel.com/v1/public/
+  public_key: <<REDACTED>>
+  private_key: <<REDACTED>>
+
+character:
+  name: Spider-Man
+  image_size: standard_fantastic
+
+database:
+  name: sqlite3.db
